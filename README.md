@@ -10,4 +10,4 @@
 * Write the same password in files > SQL_CONNECT.py line 13 inside passwd variable
 * Copy and paste SQL_P_MAIN.sql , SQL_P_PROCEDURES.sql , AQL_P_OUTPUT_QUERIES.sql inside WorkBench
   to create your own database
-* go to main_body.py and run it
+* go to main.py and run it
